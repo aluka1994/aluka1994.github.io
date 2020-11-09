@@ -1,0 +1,49 @@
+Index,Name_latin,Name_eng,Name_cy,Gender,Flights,Fate,Notes,count,status,dead
+0,Dezik,Dezik,Дезик,Male,"1951-07-22,1951-07-29",Died 1951-07-29,,2,dead,7/29/51
+1,Tsygan,Gypsy,Цыган,Male,7/22/51,Survived,Adopted as a pet by Soviet physicist Anatoli Blagonravov,1,alive,0
+2,Lisa,Fox,Лиса,Female,7/29/51,Died 1951-07-29,,1,dead,7/29/51
+3,Chizhik,Siskin,Чижик,Male,"1951-08-15,1951-08-28",Died 1951-08-28,,2,dead,8/28/51
+4,Mishka,Little Bear,Мишка,Male,"1951-08-15,1951-08-28",Died 1951-08-28,,2,dead,8/28/51
+5,Ryzhik,Ginger,Рыжик,Male,8/19/51,Survived,,1,alive,0
+6,Smeliy,Courageous,Смелая,Male,8/19/51,Survived,,1,alive,0
+7,Neputeviy,Scamp,Непутёвый,Male,9/3/51,Survived,,1,alive,0
+8,ZIB,Substitute for Missing Bobik,Замена Исчезнувшему Бобику,Male,9/3/51,Survived,"An untrained street dog found running around the barracks, captured after Bobik ran away days before his flight.",1,alive,0
+9,Lisa-2,Fox,Лиса,Female,"1951-06-26,1954-07-26,1955-02-05",Died 1955-02-05,,3,dead,2/5/55
+10,Ryzhik-2,Ginger,Рыжик,Male,"1951-06-26,1954-07-07",Died 1954-07-07,,2,dead,7/7/54
+11,Damka,Little Lady,Дамка,Female,"1954-07-02,1954-07-07",Survived,,2,alive,0
+12,Mishka-2,Little Bear,Мишка,Male,7/2/54,Died 1954-07-02,,1,dead,7/2/54
+13,Ryzhik-3,Ginger,Рыжик,Male,7/26/54,Survived,,1,alive,0
+14,Rita,Rita,Рита,Female,1/25/55,Died 1955-01-25 or 1955-06-25,,1,dead,1/25/55
+15,Linda,Linda,Лида,Female,"1955-01-25,1956-05-31",Survived,,2,alive,0
+16,Bulba,Bulba,Бульба,Female,2/5/55,Died 1955-02-05,,1,dead,2/5/55
+17,Knopka,Button,Кнопка,Female,"1955-11-04,1958-10-31",Died 1958-10-31,,2,dead,10/31/58
+18,Malyshka,Little One,Малышка,Female,"1955-11-04,1956-05-31",Survived,,2,alive,0
+19,Albina,Whitey,Альбина,Female,"1956-05-14,1956-06-07,1956-06-14",Survived,,3,alive,0
+20,Kozyavka,Little Gnat,Козявка,Female,"1956-05-14,1956-06-07,1956-06-14,1958-09-19",Survived,,4,alive,0
+21,Damka-2,Little Lady,Дамка,Female,"1957-05-16,1957-08-31,1958-09-19",Survived,,3,alive,0
+22,Dzhoyna,Dzhoyna,Джойна,Female,5/24/57,Died 1957-05-24,,1,dead,5/24/57
+23,Ryzhaya,Redhead,Рыжая,Female,"1957-05-16,1957-05-24",Died 1957-05-24,,2,dead,5/24/57
+24,Belka,Squirrel,Белка,Female,"1957-08-25,1957-08-31,1957-09-06,1960-08-19",Survived,,4,alive,0
+25,Modnitsa,Fashionable,Модница,Female,"1957-08-25,1957-09-06",Survived,,2,alive,0
+26,Laika,Barker,Лайка,Female,11/3/57,Died 1957-11-03,Also known as Kudryavka (Little Curly) and Limonchik (Little Lemon) and Zhuchka (Little Beetle) and also Muttnik,1,dead,11/3/57
+27,Palma,Palm,Пальма,Female,2/21/58,Died 1958-02-21,,1,dead,2/21/58
+28,Pushok,Fluffy,Пушок,Male,2/21/58,Died 1958-02-21,,1,dead,2/21/58
+29,Kusachka / Otvazhnaya,Biter / Brave One,Отважная,Female,"1959-07-02,1959-07-10,1960-06-15,1960-06-24,1960-09-22,1958-08-13,1958-08-02",Survived,Made the most flights of any space dog.,7,alive,0
+30,Palma-2,Palm,Пальма,Female,"1958-08-02,1958-08-13,1960-09-16",Survived,,3,alive,0
+31,Belyanka,Little Whitey,Белянка,Female,8/27/58,Survived,,1,alive,0
+32,Pestraya,Spotted,Пестрая,Female,8/27/58,Survived,,1,alive,0
+33,Zhulba,Zhulba,Жульба,Female,10/31/58,Died 1958-10-31,,1,dead,10/31/58
+34,Snezhinka / Zhemchuzhnaya,Snowflake / Pearly,Снежинка / Жемчужная,Female,"1959-07-02,1959-07-10,1960-06-24",Survived,,3,alive,0
+35,Malyok,Small Fry,Малёк,Male,"1960-06-15,1960-09-16",Survived,,2,alive,0
+36,Lisichka,Little Fox,Лисичка,Female,7/28/60,Died 1960-07-28,,1,dead,7/28/60
+37,Bars / Chaika,Panther / Seagull,Барс / Чайка,Female,7/28/60,Died 1960-07-28,,1,dead,7/28/60
+38,Strelka,Little Arrow,Стрелка,Female,8/19/60,Survived,"Went on to have six puppies with a male dog named Pushok who participated in many ground-based space experiments, but never made it into space. One of the pups was named Pushinka (Пушинка, ""Fluffy"") and was presented to President John F. Kennedy by Nikita Khrushchev in 1961. A Cold War romance bloomed between Pushinka and a Kennedy dog named Charlie, resulting in the birth of four pups that JFK referred to jokingly as pupniks. Two of their pups, Butterfly and Streaker were given away to children in the Midwest. The other two puppies, White Tips and Blackie, stayed at the Kennedy home on Squaw Island but were eventually given away to family friends.",1,alive,0
+39,Neva,Neva,Нева,Female,9/22/60,Survived,,1,alive,0
+40,Mushka,Little Fly,Мушка,Female,12/1/60,Died 1960-12-01,,1,dead,12/1/60
+41,Pchyolka,Little Bee,Пчёлка,Female,12/1/60,Died 1960-12-01,,1,dead,12/1/60
+42,Shutka,Joke,Шутка,Female,12/22/60,Survived,"Also known as Damka (Little Lady) and Zhemchuzhina (Pearl). Adopted by Oleg Gazenko, a leading Soviet space scientist. She went on to have puppies and continued living with Gazenko and his family until her death 14 years later.",1,alive,0
+43,Chernuskha,Blackie,Чернушка,Female,3/9/61,Survived,,1,alive,0
+44,Kometka,Comet,Кометка,Female,12/22/60,Survived,Also known as Krasavka (Cheater) and Zhulka (Beauty) and Zhemchuzhnaya (Pearly) and Snezchinka (Snowflake),1,alive,0
+45,Zvezdochka,Little Star,Звёздочка,Female,3/25/61,Survived,,1,alive,0
+46,Ugolyok / Snezhok,Little Piece of Coal / Snowball,Уголёк / Снежок,Male,2/22/66,Survived,,1,alive,0
+47,Veterok / Bzdunok,Little Wind / Little Fart,Ветерок / Вздунок,Male,2/22/66,Survived,,1,alive,0
